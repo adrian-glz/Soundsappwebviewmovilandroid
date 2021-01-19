@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218663413942",
+    "firebase_url": "https://soundsntfoficial2019.firebaseio.com",
+    "project_id": "soundsntfoficial2019",
+    "storage_bucket": "soundsntfoficial2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218663413942:android:ad4417e3313bc8cf709e17",
+        "android_client_info": {
+          "package_name": "sounds.oficial.sounds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218663413942-flkbp64a73m4lp2d9e31n7afg901jphn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sounds.oficial.sounds_app",
+            "certificate_hash": "0fb823da57fb48ffb85bf800500b68a05fa1920a"
+          }
+        },
+        {
+          "client_id": "218663413942-n6qvqkno54iv770b9qm3aarrnuej68ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKxyB-QR56md1N6QGik1cbQk-NCPT0uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218663413942-n6qvqkno54iv770b9qm3aarrnuej68ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
