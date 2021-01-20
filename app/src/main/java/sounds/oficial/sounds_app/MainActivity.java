@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String TAG = "NOTICIAS";
 
 
-    WebView webView;
+    WebView webView,etc;
     String url = "https://www.sounds.mx/";
     ProgressDialog mProgressDialog;
     Context context = this;
@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
         mProgressDialog = new ProgressDialog(context,R.style.MyAlertDialogStyle);
         mProgressDialog.setMessage("Cargando...");
         webViewClient = new CustomWebViewClient();
+
 
         webView = findViewById(R.id.webView);
         webView.getSettings().setBuiltInZoomControls(false);
